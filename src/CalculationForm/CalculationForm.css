@@ -1,0 +1,20 @@
+.form-container {
+    text-align: center;
+}
+
+.button {
+    padding: 10px 24px;
+    font-size: 18px;
+    background-color: green;
+    color: white;
+    border: 1px solid green;
+    border-radius: 3px;
+    outline: none;
+    cursor: pointer;
+    position: relative;
+    left: 10px;
+}
+
+.result {
+    padding-top: 24px;
+}
